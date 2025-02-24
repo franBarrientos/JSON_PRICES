@@ -36,6 +36,38 @@
         "Caja de metal",
         "Malla de metal"
       ]
+    },
+      {
+      "id": 3,
+      "name": "Reloj Tressa T-Crypto-H 05",
+      "brand": "Tressa",
+      "price": 96300,
+      "images": [
+        "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-05.jpg"
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
+    },
+      {
+      "id": 3,
+      "name": "Reloj Tressa T-Crypto-H 09",
+      "brand": "Tressa",
+      "price": 96300,
+      "images": [
+"https://casatagger.com.ar/wp-content/uploads/2024/11/T-CRYPTO-H-09.jpg"
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
     }
   ]
   
