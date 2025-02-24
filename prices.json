@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Reloj Unisex Casio A158WA",
+      "brand": "Casio",
+      "price": 135000,
+      "images": [
+        "https://casatagger.com.ar/wp-content/uploads/2021/07/A158WA-1.jpg",
+        "https://most.pe/cdn/shop/files/CAS-545.webp"
+      ],
+      "features": [
+        "Digital",
+        "Resistente al agua WR",
+        "Luz backlight",
+        "Calendario: fecha y dia de la semana",
+        "Cronometro 1/100",
+        "Alarma diaria y señal horaria",
+        "Formato de 12/24 horas",
+        "Cristal de zafiro resistente a rayones",
+        "Caja de metal",
+        "Malla de acero inoxidable"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Reloj Tressa T-Crypto-H 03",
+      "brand": "Tressa",
+      "price": 96300,
+      "images": [
+        "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-03.jpg"
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
+    }
+  ]
+  
