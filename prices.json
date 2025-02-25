@@ -68,22 +68,6 @@
         "Caja de metal",
         "Malla de metal"
       ]
-    },
-     {
-      "id": 5,
-      "name": "Prueba Reloj Tressa T-Crypto-H 09",
-      "brand": "Tressa",
-      "price": 1,
-      "images": [
-"https://casatagger.com.ar/wp-content/uploads/2024/11/T-CRYPTO-H-09.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
     }
   ]
   
