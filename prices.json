@@ -43,7 +43,9 @@
       "brand": "Tressa",
       "price": 96300,
       "images": [
-        "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-05.jpg"
+        "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-05.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510682/IMG_0137_ctmyd5.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510679/IMG_0138_v0uctt.jpg"
       ],
       "features": [
         "Analogico",
