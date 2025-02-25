@@ -128,6 +128,40 @@
         "Caja de metal",
         "Malla de metal"
       ]
+    },
+    {
+      "id": 8,
+      "name": "Reloj Tressa T-Crypto-D 09",
+      "brand": "Tressa",
+      "price": 96300,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2023/11/T-CRYPTO-D-09.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510659/IMG_0108_mczt8f.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510655/1BA6C593-143F-4A27-B4C4-42A2C1E3A40D_eyrb1n.jpg"
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
+    },
+      {
+      "id": 9,
+      "name": "Combo X2 Tressa T-Crypto-Dama 09 + Reloj Tressa T-Crypto-Hombre 09",
+      "brand": "Tressa",
+      "price": 172000,
+      "images": [
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740516943/IMG_0136_vsfoge_26d060.jpg",
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
     }
     
   ]
