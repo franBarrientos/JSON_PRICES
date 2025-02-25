@@ -74,6 +74,24 @@
         "Caja de metal",
         "Malla de metal"
       ]
+    },
+    {
+      "id": 5,
+      "name": "Reloj Tressa Ryan-H 10",
+      "brand": "Tressa",
+      "price": 173000,
+      "images": [
+"https://casatagger.com.ar/wp-content/uploads/2024/11/T-RYAN-H-10.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510653/IMG_0149_blwatz.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510784/IMG_0150_yqqziw.jpg"
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
     }
   ]
   
