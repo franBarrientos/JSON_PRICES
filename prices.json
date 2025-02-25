@@ -93,8 +93,26 @@
         "Malla de metal"
       ]
     },
+     {
+      "id": 6,
+      "name": "Reloj Tressa Ryan-H 06",
+      "brand": "Tressa",
+      "price": 173000,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2024/11/T-RYAN-H-06.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510638/IMG_0159_eutwi2.jpg",
+          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510771/IMG_0157_lcwplh.jpg"
+      ],
+      "features": [
+        "Analogico",
+        "Resistente al agua WR",
+        "Calendario",
+        "Caja de metal",
+        "Malla de metal"
+      ]
+    },
       {
-      "id": 5,
+      "id": 7,
       "name": "Reloj Tressa T-Crypto-D 08",
       "brand": "Tressa",
       "price": 96300,
