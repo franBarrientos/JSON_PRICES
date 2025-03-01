@@ -216,6 +216,51 @@
         "Cronometro",
         "Formato hora 12/24"
       ]
+    },
+    {
+      "id": 13,
+      "name": "Reloj Tressa Julieta D 03",
+      "brand": "Tressa",
+      "price": 90500,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2024/07/T-URI-01.jpg"
+      ],
+      "features": [
+         "Analogico",
+        "Resistente al agua WR30",
+        "Caja de metal",
+        "Malla de metal"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Reloj Tressa Julieta D 04",
+      "brand": "Tressa",
+      "price": 90500,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2022/11/T-JULIETA-04-P.jpg"
+      ],
+      "features": [
+         "Analogico",
+        "Resistente al agua WR30",
+        "Caja de metal",
+        "Malla de metal"
+      ]
+    },
+       {
+      "id": 14,
+      "name": "Reloj Tressa Julieta D 01",
+      "brand": "Tressa",
+      "price": 90500,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2022/11/T-JULIETA-01-P.jpg"
+      ],
+      "features": [
+         "Analogico",
+        "Resistente al agua WR30",
+        "Caja de metal",
+        "Malla de metal"
+      ]
     }
   ]
   
