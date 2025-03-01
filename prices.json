@@ -162,7 +162,60 @@
         "Caja de metal",
         "Malla de metal"
       ]
+    },
+    {
+      "id": 10,
+      "name": "Reloj Unisex Tressa T-Uri 03",
+      "brand": "Tressa",
+      "price": 90500,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2024/07/T-URI-03.jpg"
+      ],
+      "features": [
+        "Digital",
+        "Resistente al agua WR30",  
+        "Luz backlight",
+        "Calendario fecha y dia",
+        "Alarma",
+        "Cronometro",
+        "Formato hora 12/24"
+      ]
+    },
+      {
+      "id": 11,
+      "name": "Reloj Unisex Tressa T-Uri 02",
+      "brand": "Tressa",
+      "price": 90500,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2024/07/T-URI-02.jpg"
+      ],
+      "features": [
+        "Digital",
+        "Resistente al agua WR30",  
+        "Luz backlight",
+        "Calendario fecha y dia",
+        "Alarma",
+        "Cronometro",
+        "Formato hora 12/24"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Reloj Unisex Tressa T-Uri 01",
+      "brand": "Tressa",
+      "price": 90500,
+      "images": [
+          "https://casatagger.com.ar/wp-content/uploads/2024/07/T-URI-01.jpg"
+      ],
+      "features": [
+        "Digital",
+        "Resistente al agua WR30",  
+        "Luz backlight",
+        "Calendario fecha y dia",
+        "Alarma",
+        "Cronometro",
+        "Formato hora 12/24"
+      ]
     }
-    
   ]
   
