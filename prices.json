@@ -1,262 +1,261 @@
 [
-    {
-      "id": 1,
-      "name": "Reloj Unisex Casio A158WA",
-      "brand": "Casio",
-      "price": 135000,
-      "images": [
-        "https://casatagger.com.ar/wp-content/uploads/2021/07/A158WA-1.jpg",
-        "https://most.pe/cdn/shop/files/CAS-545.webp"
-      ],
-      "features": [
-        "Digital",
-        "Resistente al agua WR",
-        "Luz backlight",
-        "Calendario: fecha y dia de la semana",
-        "Cronometro 1/100",
-        "Alarma diaria y señal horaria",
-        "Formato de 12/24 horas",
-        "Cristal de zafiro resistente a rayones",
-        "Caja de metal",
-        "Malla de acero inoxidable"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Reloj Tressa T-Crypto-H 03",
-      "brand": "Tressa",
-      "price": 96300,
-      "images": [
-        "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-03.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510675/IMG_0142_rljmwz.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510664/IMG_0143_seumlq.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-      {
-      "id": 3,
-      "name": "Reloj Tressa T-Crypto-H 05",
-      "brand": "Tressa",
-      "price": 96300,
-      "images": [
-        "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-05.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510682/IMG_0137_ctmyd5.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510679/IMG_0138_v0uctt.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-      {
-      "id": 4,
-      "name": "Reloj Tressa T-Crypto-H 09",
-      "brand": "Tressa",
-      "price": 96300,
-      "images": [
-"https://casatagger.com.ar/wp-content/uploads/2024/11/T-CRYPTO-H-09.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510598/IMG_0133_bu67x9.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510594/IMG_0134_p4tht5.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Reloj Tressa Ryan-H 01",
-      "brand": "Tressa",
-      "price": 173000,
-      "images": [
-          "https://casatagger.com.ar/wp-content/uploads/2024/11/T-RYAN-H-01.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510653/IMG_0149_blwatz.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510784/IMG_0150_yqqziw.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-     {
-      "id": 6,
-      "name": "Reloj Tressa Ryan-H 06",
-      "brand": "Tressa",
-      "price": 173000,
-      "images": [
-          "https://casatagger.com.ar/wp-content/uploads/2024/11/T-RYAN-H-06.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510638/IMG_0159_eutwi2.jpg",
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510771/IMG_0157_lcwplh.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-      {
-      "id": 7,
-      "name": "Reloj Tressa T-Crypto-D 08",
-      "brand": "Tressa",
-      "price": 102000,
-      "images": [
-          "https://casatagger.com.ar/wp-content/uploads/2023/11/T-CRYPTO-D-04.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Reloj Tressa T-Crypto-D 09",
-      "brand": "Tressa",
-      "price": 102000,
-      "images": [
-          "https://casatagger.com.ar/wp-content/uploads/2023/11/T-CRYPTO-D-05.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-      {
-      "id": 9,
-      "name": "Combo X2 Tressa T-Crypto-Dama 09 + Reloj Tressa T-Crypto-Hombre 09",
-      "brand": "Tressa",
-      "price": 172000,
-      "images": [
-          "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740516943/IMG_0136_vsfoge_26d060.jpg"
-      ],
-      "features": [
-        "Analogico",
-        "Resistente al agua WR",
-        "Calendario",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Reloj Unisex Tressa T-Uri 03",
-      "brand": "Tressa",
-      "price": 90500,
-      "images": [
-          "https://http2.mlstatic.com/D_NQ_NP_778463-MLA77555401402_072024-O.webp"
-      ],
-      "features": [
-        "Digital",
-        "Resistente al agua WR30",  
-        "Luz backlight",
-        "Calendario fecha y dia",
-        "Alarma",
-        "Cronometro",
-        "Formato hora 12/24"
-      ]
-    },
-      {
-      "id": 11,
-      "name": "Reloj Unisex Tressa T-Uri 02",
-      "brand": "Tressa",
-      "price": 90500,
-      "images": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu732R9tgRtPXDCzDk1K1yP0rA2exdeBGEHw&s"
-      ],
-      "features": [
-        "Digital",
-        "Resistente al agua WR30",  
-        "Luz backlight",
-        "Calendario fecha y dia",
-        "Alarma",
-        "Cronometro",
-        "Formato hora 12/24"
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Reloj Unisex Tressa T-Uri 01",
-      "brand": "Tressa",
-      "price": 90500,
-      "images": [
-          "https://http2.mlstatic.com/D_NQ_NP_846761-MLA77774027741_072024-O.webp"
-      ],
-      "features": [
-        "Digital",
-        "Resistente al agua WR30",  
-        "Luz backlight",
-        "Calendario fecha y dia",
-        "Alarma",
-        "Cronometro",
-        "Formato hora 12/24"
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Reloj Tressa Julieta D 03",
-      "brand": "Tressa",
-      "price": 115000,
-      "images": [
-          "https://acdn-us.mitiendanube.com/stores/001/326/559/products/t-julieta-03-p-1-11-22972d0bbb3329106616903014589211-1024-1024.webp"
-      ],
-      "features": [
-         "Analogico",
-        "Resistente al agua WR30",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Reloj Tressa Julieta D 04",
-      "brand": "Tressa",
-      "price": 115000,
-      "images": [
-          "https://acdn-us.mitiendanube.com/stores/001/326/559/products/t-julieta-04-p-1-11-cb4fbae42ca07745f816903014588099-1024-1024.webp"
-      ],
-      "features": [
-         "Analogico",
-        "Resistente al agua WR30",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    },
-       {
-      "id": 14,
-      "name": "Reloj Tressa Julieta D 01",
-      "brand": "Tressa",
-      "price": 115000,
-      "images": [
-          "https://acdn-us.mitiendanube.com/stores/001/326/559/products/t-julieta-01-p-1-11-bbd1e8a836c28720ef16903014587719-1024-1024.webp"
-      ],
-      "features": [
-         "Analogico",
-        "Resistente al agua WR30",
-        "Caja de metal",
-        "Malla de metal"
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Reloj Unisex Casio A158WA",
+    "brand": "Casio",
+    "price": 135000,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2021/07/A158WA-1.jpg",
+      "https://most.pe/cdn/shop/files/CAS-545.webp"
+    ],
+    "features": [
+      "Digital",
+      "Resistente al agua WR",
+      "Luz backlight",
+      "Calendario: fecha y dia de la semana",
+      "Cronometro 1/100",
+      "Alarma diaria y señal horaria",
+      "Formato de 12/24 horas",
+      "Cristal de zafiro resistente a rayones",
+      "Caja de metal",
+      "Malla de acero inoxidable"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Reloj Tressa T-Crypto-H 03",
+    "brand": "Tressa",
+    "price": 96300,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-03.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510675/IMG_0142_rljmwz.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510664/IMG_0143_seumlq.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Reloj Tressa T-Crypto-H 05",
+    "brand": "Tressa",
+    "price": 96300,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-05.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510682/IMG_0137_ctmyd5.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510679/IMG_0138_v0uctt.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Reloj Tressa T-Crypto-H 09",
+    "brand": "Tressa",
+    "price": 96300,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2024/11/T-CRYPTO-H-09.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510598/IMG_0133_bu67x9.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510594/IMG_0134_p4tht5.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Reloj Tressa Ryan-H 01",
+    "brand": "Tressa",
+    "price": 173000,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2024/11/T-RYAN-H-01.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510653/IMG_0149_blwatz.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510784/IMG_0150_yqqziw.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Reloj Tressa Ryan-H 06",
+    "brand": "Tressa",
+    "price": 173000,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2024/11/T-RYAN-H-06.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510638/IMG_0159_eutwi2.jpg",
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510771/IMG_0157_lcwplh.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Reloj Tressa T-Crypto-D 08",
+    "brand": "Tressa",
+    "price": 102000,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2023/11/T-CRYPTO-D-04.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Reloj Tressa T-Crypto-D 09",
+    "brand": "Tressa",
+    "price": 102000,
+    "images": [
+      "https://casatagger.com.ar/wp-content/uploads/2023/11/T-CRYPTO-D-05.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Combo X2 Tressa T-Crypto-Dama 09 + Reloj Tressa T-Crypto-Hombre 09",
+    "brand": "Tressa",
+    "price": 172000,
+    "images": [
+      "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740516943/IMG_0136_vsfoge_26d060.jpg"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR",
+      "Calendario",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Reloj Unisex Tressa T-Uri 03",
+    "brand": "Tressa",
+    "price": 90500,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_778463-MLA77555401402_072024-O.webp"
+    ],
+    "features": [
+      "Digital",
+      "Resistente al agua WR30",
+      "Luz backlight",
+      "Calendario fecha y dia",
+      "Alarma",
+      "Cronometro",
+      "Formato hora 12/24"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Reloj Unisex Tressa T-Uri 02",
+    "brand": "Tressa",
+    "price": 90500,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu732R9tgRtPXDCzDk1K1yP0rA2exdeBGEHw&s"
+    ],
+    "features": [
+      "Digital",
+      "Resistente al agua WR30",
+      "Luz backlight",
+      "Calendario fecha y dia",
+      "Alarma",
+      "Cronometro",
+      "Formato hora 12/24"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Reloj Unisex Tressa T-Uri 01",
+    "brand": "Tressa",
+    "price": 90500,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_846761-MLA77774027741_072024-O.webp"
+    ],
+    "features": [
+      "Digital",
+      "Resistente al agua WR30",
+      "Luz backlight",
+      "Calendario fecha y dia",
+      "Alarma",
+      "Cronometro",
+      "Formato hora 12/24"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Reloj Tressa Julieta D 03",
+    "brand": "Tressa",
+    "price": 115000,
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/326/559/products/t-julieta-03-p-1-11-22972d0bbb3329106616903014589211-1024-1024.webp"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR30",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Reloj Tressa Julieta D 04",
+    "brand": "Tressa",
+    "price": 115000,
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/326/559/products/t-julieta-04-p-1-11-cb4fbae42ca07745f816903014588099-1024-1024.webp"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR30",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Reloj Tressa Julieta D 01",
+    "brand": "Tressa",
+    "price": 115000,
+    "images": [
+      "https://acdn-us.mitiendanube.com/stores/001/326/559/products/t-julieta-01-p-1-11-bbd1e8a836c28720ef16903014587719-1024-1024.webp"
+    ],
+    "features": [
+      "Analogico",
+      "Resistente al agua WR30",
+      "Caja de metal",
+      "Malla de metal"
+    ]
+  }
+]
