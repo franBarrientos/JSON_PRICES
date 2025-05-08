@@ -25,7 +25,7 @@
     "id": 2,
     "name": "Reloj Tressa T-Crypto-H 03",
     "brand": "Tressa",
-    "price": 96300,
+    "price": 102000,
     "images": [
       "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-03.jpg",
       "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510675/IMG_0142_rljmwz.jpg",
@@ -43,7 +43,7 @@
     "id": 3,
     "name": "Reloj Tressa T-Crypto-H 05",
     "brand": "Tressa",
-    "price": 96300,
+    "price": 102000,
     "images": [
       "https://casatagger.com.ar/wp-content/uploads/2023/01/T-CRYPTO-H-05.jpg",
       "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510682/IMG_0137_ctmyd5.jpg",
@@ -61,7 +61,7 @@
     "id": 4,
     "name": "Reloj Tressa T-Crypto-H 09",
     "brand": "Tressa",
-    "price": 96300,
+    "price": 102000,
     "images": [
       "https://casatagger.com.ar/wp-content/uploads/2024/11/T-CRYPTO-H-09.jpg",
       "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740510598/IMG_0133_bu67x9.jpg",
@@ -147,7 +147,7 @@
     "id": 9,
     "name": "Combo X2 Tressa T-Crypto-Dama 09 + Reloj Tressa T-Crypto-Hombre 09",
     "brand": "Tressa",
-    "price": 172000,
+    "price": 185000,
     "images": [
       "https://res.cloudinary.com/dkkd5eszg/image/upload/v1740516943/IMG_0136_vsfoge_26d060.jpg"
     ],
@@ -163,7 +163,7 @@
     "id": 10,
     "name": "Reloj Unisex Tressa T-Uri 03",
     "brand": "Tressa",
-    "price": 90500,
+    "price": 96000,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_778463-MLA77555401402_072024-O.webp"
     ],
@@ -181,7 +181,7 @@
     "id": 11,
     "name": "Reloj Unisex Tressa T-Uri 02",
     "brand": "Tressa",
-    "price": 90500,
+    "price": 96000,
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu732R9tgRtPXDCzDk1K1yP0rA2exdeBGEHw&s"
     ],
@@ -199,7 +199,7 @@
     "id": 12,
     "name": "Reloj Unisex Tressa T-Uri 01",
     "brand": "Tressa",
-    "price": 90500,
+    "price": 96000,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_846761-MLA77774027741_072024-O.webp"
     ],
